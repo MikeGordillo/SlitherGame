@@ -7,6 +7,7 @@ just followed a tutorial. I added my own
 style elements. 
 
 https://github.com/MikeGordillo/SlitherGame
-![Alt text]("")
+https://mikegordillo.github.io/SlitherGame/
+![Alt text](https://github.com/MikeGordillo/SlitherGame/blob/main/Assets/catScreenshot.png)
 
 
